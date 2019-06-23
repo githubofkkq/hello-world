@@ -13,6 +13,7 @@ class ListNode {
 
     @Override
     public String toString() {
+        System.out.println();
         return String.valueOf(val);
     }
 }
